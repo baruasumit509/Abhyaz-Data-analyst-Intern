@@ -1,1 +1,16 @@
 https://analytics.zoho.com/open-view/1742677000005330544
+
+Problem Statemen - >
+
+While filtering with tag it was creating issue to select multple check box, instead replace with less check box.
+There were 2 ad-hocs request ->   
+(a)Create a chart which represent Monthly trends of amount according to stages. 
+(b)Create a chart which represent Monthly trends of counts according to stages.
+
+Solution - >
+
+(1)Align products subscategory into different category in products name with the help of formula column, so that we can easily filter and it saves time upto 10 %.
+(2)Create a line chart so that it can show monthly trends of pipeline stages in revenue and count, 
+so that stakeholders can understand which point changes in value over time and sales figures.
+(3)With the help of this stakeholders can easily intepret and  understand and allow them to quickly see trends and patterns in the data, 
+so that they can take better business decisions.
