@@ -2,3 +2,24 @@
 This Dashboards provides insights of how many accounts have been mapped and their mandotary details-
 This is the public link - >https://analytics.zoho.com/open-view/1742677000013236134
 
+Problem Statement - >
+
+  (1)Higher Management/Stakeholder wants to know in Accounts Dashboard which accounts mapping member has mapped the accounts.
+
+ (2) It is showing us the id, but not the name of the member.
+
+ (3)  After accounts have been mapped it is consuming time to do the manual process. (I have to check with the account mapping Team who have mapped the check-in CRM and tables to verify). This process takes time and has sometimes led to errors.
+
+ (4)  As a data analyst, my task was to automate the manual process and come up with solution.
+   
+   Solution ->
+   
+   
+    (1) Refer to the Zoho CRM, where accounts have been mapped.
+
+ (2) Understand the ERD Diagram, through which you can understand the connection of the tables.
+
+ (3) In the table there is an option to connect multiple tables, through which I was able to solve the issue.
+
+ (4) This led to increased productivity and fewer errors, resulting in a 30% reduction in overall time.
+
