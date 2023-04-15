@@ -1,1 +1,18 @@
 This is a Quarterly Report Dashboards -> https://analytics.zoho.com/open-view/1742677000019019744
+
+problenm Statement ->
+
+In a review meeting , the stakeholder/team head want to know department wise the target they achieved and goal .
+
+There are four department in Abhyaz - > Talents, CRM ,Engineering and Content.
+
+So that they can see the comparison of each month and quarterly as per given category department wise.
+
+So every Department head use to explain with the help of zoho sheet, it takes time to apply multiple time filter and drill down and have to compare with various sheet which sometime leads to inaccuracy.
+
+Solution ->
+
+Created a KPI widget to show the comparison between Goal vs Achieved , so that they get a glance about the Monthly and Quarterly.
+For every four department the performance ratio can be seen , it give better understanding to team member the performance ratio.
+They can easily track and minimize error upto 20 % of manual checking .
+With the help of Dashboard the stakeholders and team member able to understand their perfomance ratios according to category and metrics which saves times upto 30 %.
